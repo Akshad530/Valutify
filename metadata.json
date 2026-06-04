@@ -1,0 +1,6 @@
+{
+  "name": "Venzer",
+  "description": "A gorgeous, modern, high-fidelity light-themed personal finance tracker and analytical dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
